@@ -1,7 +1,7 @@
 {
-    "name": "RahimRahim Adblocker",
+    "name": "Adblocker for Chrome",
     "version": "1.0",
-    "description": "RahimRajwani Adblocker",
+    "description": "Adblocker for Chrome",
     //An array - list of all the chrome APIs that this plugin will need to have access to (hidden APIs - new discovery - good stuff Google)
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
